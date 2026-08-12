@@ -1,2 +1,2 @@
 # JQIE-public
-The public repo for the JQIE simulation
+This is a placeholder for the public repo for the JQIE simulation.
