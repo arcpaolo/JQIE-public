@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: >-
+  If you use this model or data, please cite the associated article (see
+  preferred-citation below) and/or this software repository using the
+  metadata in this file.
+type: software
+title: "JQIE: Job-Quality Impact Explorer"
+abstract: >-
+  An agent-based simulation of frontline retail workers used to quantify the
+  business value of improving job quality. This repository contains the
+  NetLogo model, the simulation output data behind the associated paper's
+  results, and the paper's final figures and tables.
+authors:
+  - family-names: Zhang
+    given-names: Chibin
+  - family-names: Gaudiano
+    given-names: Paolo
+repository-code: "https://github.com/arcpaolo/JQIE-public"
+license: MIT
+version: 1.0.0  # TODO: keep this in sync with the tag of each GitHub release
+date-released: "2026-09-21"  # TODO: set to the actual date you publish the release
+doi: 10.5281/zenodo.XXXXXXX  # TODO: replace with the Zenodo CONCEPT DOI once the first release is published
+keywords:
+  - agent-based simulation
+  - job quality
+  - frontline workers
+  - decent work
+  - retail scheduling
+  - living wages
+  - NetLogo
+preferred-citation:
+  type: article
+  title: >-
+    From Retail Scheduling to Supply-Chain Living Wages: An Agent-Based
+    Simulation to Quantify the Business Value of Improving Job Quality for All
+  authors:
+    - family-names: Zhang
+      given-names: Chibin
+    - family-names: Gaudiano
+      given-names: Paolo
+  journal: Merits
+  publisher:
+    name: MDPI
+  year: 2026
+  doi: 10.3390/xxxxx  # TODO: replace with the article's final DOI once issued
