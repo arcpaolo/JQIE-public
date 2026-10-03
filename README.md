@@ -1,5 +1,7 @@
 # JQIE — Job-Quality Impact Explorer
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22866069.svg)](https://doi.org/10.5281/zenodo.22866069)
+
 This repository accompanies the manuscript **"From Retail Scheduling to Supply-Chain Living Wages: An Agent-Based Simulation to Quantify the Business Value of Improving Job Quality for All"** (Zhang & Gaudiano, accepted for publication in *Merits*, MDPI, 2026 — see `Zhang-Gaudiano-2026-Merits-paper.pdf`). It contains the NetLogo simulation model, the simulation output data behind the paper's results, and the final figures and tables as they appear in the manuscript.
 
 ## What is JQIE?
@@ -45,9 +47,11 @@ The paper has been **accepted for publication** in *Merits* (MDPI). The included
 
 ## Citation
 
-If you use this model or data, please cite:
+If you use this model or data, please cite the article:
 
 > Zhang, C. & Gaudiano, P. (2026). *From Retail Scheduling to Supply-Chain Living Wages: An Agent-Based Simulation to Quantify the Business Value of Improving Job Quality for All.* Merits, MDPI. [DOI to be added upon publication.]
+
+To cite this repository (code and data) specifically, use the Zenodo DOI above (`10.5281/zenodo.22866069`), which always resolves to the latest release. Machine-readable metadata for both is in [`CITATION.cff`](CITATION.cff).
 
 ## License
 

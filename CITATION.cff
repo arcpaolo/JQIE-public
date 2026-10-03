@@ -17,9 +17,9 @@ authors:
     given-names: Paolo
 repository-code: "https://github.com/arcpaolo/JQIE-public"
 license: MIT
-version: 1.0.0  # TODO: keep this in sync with the tag of each GitHub release
-date-released: "2026-09-21"  # TODO: set to the actual date you publish the release
-doi: 10.5281/zenodo.XXXXXXX  # TODO: replace with the Zenodo CONCEPT DOI once the first release is published
+version: 1.0.0
+date-released: "2026-09-21"
+doi: 10.5281/zenodo.22866069
 keywords:
   - agent-based simulation
   - job quality
